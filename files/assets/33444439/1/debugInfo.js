@@ -1,0 +1,1 @@
+var DebugInfo=pc.createScript("debugInfo");
